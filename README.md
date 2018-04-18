@@ -24,6 +24,6 @@ To run the programs then you just need the following command:
 
 `./zen`
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] What the program does?
+- [x] How to compile and run?
+- [ ] How to modify the program?
