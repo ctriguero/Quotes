@@ -13,10 +13,14 @@
 All quote files can be modified. We can add or remove sentence with no need to modify the program. The program will read all the files available in the quote files.
 
 ## Compilation
-All the programs simply compile using a C++ compiler:
+Assuming that we are on a **Linux** plataform, all the programs simply compile using a C++ compiler:
 
 `g++ zen.cpp -o zen`
 
 `g++ zen_speak.cpp -o zen`
 
 `g++ zen_speak_multi.cpp -o zen`
+
+To run the programs then you just need the following command:
+
+`./zen`
