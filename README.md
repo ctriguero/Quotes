@@ -1,5 +1,5 @@
-# Quotes
-###### There are three versions of this program. 
+# Quote generator
+###### There are three versions of this program. The programs output randomly a quote from a data base. The output of the quote can be just a print on the screen or even the quote can be heared through the speakers in the last to versions of the program.
 
 ## The first one:
 **zen.cpp** reads at random one of the sentences stored in the file **quotes.txt** and shows it on the screen. 
