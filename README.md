@@ -23,3 +23,6 @@ g++ zen_speak_multi.cpp -o zen
 To run the programs then you just need the following command:
 
 `./zen`
+
+- [x]
+- []
