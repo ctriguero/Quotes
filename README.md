@@ -29,4 +29,4 @@ To run the programs then you just need the following command:
 - [x] It is intended to be used over a Linux or OSX plataform.
 - [x] We need a C++ compiler.
 - [x] In Linux we need to have the **espeak**.
-- [x] In OSX we need to have the package **say**.
+- [x] In OSX we need to have the package [http://espeak.sourceforge.net/]{**say**}.
