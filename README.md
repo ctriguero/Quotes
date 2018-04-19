@@ -28,5 +28,5 @@ To run the programs then you just need the following command:
 
 - [x] It is intended to be used over a Linux or OSX plataform.
 - [x] We need a C++ compiler.
-- [x] In Linux we need to have the **espeak**.
-- [x] In OSX we need to have the package [**say**](http://espeak.sourceforge.net/).
+- [x] In Linux we need to have the [**espeak**](http://espeak.sourceforge.net/).
+- [x] In OSX we need to have the package [**say**](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/say.1.html).
