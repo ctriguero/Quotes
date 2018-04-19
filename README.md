@@ -26,11 +26,7 @@ To run the programs then you just need the following command:
 
 ## Requisites
 
-- It is intended to be used over a Linux or OSX plataform.
-- We need a C++ compiler.
-- In Linux we need to have the **espeak**.
-- In OSX we need to have the package **say**.
-
-- [x] What the program does?
-- [x] How to compile and run?
-- [ ] How to modify the program?
+- [x] It is intended to be used over a Linux or OSX plataform.
+- [x] We need a C++ compiler.
+- [x] In Linux we need to have the **espeak**.
+- [x] In OSX we need to have the package **say**.
