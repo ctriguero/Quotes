@@ -28,7 +28,7 @@ To run the programs then you just need the following command:
 
 - It is intended to be used over a Linux or OSX plataform.
 - We need a C++ compiler.
-- In Linux we need **espeak**.
+- In Linux we need to have the **espeak**.
 - In OSX we need to have the package **say**.
 
 - [x] What the program does?
